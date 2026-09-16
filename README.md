@@ -1,5 +1,7 @@
 # 📚 Miniguia de Estudos: Fiódor Dostoiévski com NotebookLM
 
+Acesse o caderno original:** [Clique aqui para ver meu projeto no NotebookLM]([COLE_SEU_LINK_AQUI](https://notebook.google.com/notebook/2f44e308-8b09-464b-8f7f-1394007abaae))
+
 ## 🎯 Contexto e Objetivos
 O objetivo deste caderno temático é mergulhar na mente de Fiódor Dostoiévski e compreender a profundidade psicológica e filosófica de suas obras. A intenção não é apenas ler resumos dos livros, mas investigar como o autor antecipou conceitos modernos da psicanálise e do existencialismo. O estudo foca em entender os dilemas morais, o peso do livre-arbítrio e a complexidade da alma humana retratados em seus grandes romances.
 
